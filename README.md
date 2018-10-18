@@ -1,3 +1,2 @@
 # hello-world
-hello world2
-hello world 3
+welcome to the git hub
